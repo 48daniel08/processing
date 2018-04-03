@@ -1,4 +1,4 @@
 # processing
 _삽프로세싱_
    # 내이름을 알령
- ![텍스트](https://thestrings.kr/wp-content/uploads/2018/01/1200px-Gibson_logo.svg_-1.png"깁슨")
+ ![텍스트](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQe09TuzrhjYmGZ5dYLmrP65wuWOYFSUgYHz0KPl9BaGrj8ADF"깁슨")
