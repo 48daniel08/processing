@@ -1,0 +1,22 @@
+PFont f;
+float angle = 0;
+int x= 2000;
+void setup(){
+ //size(800,800);
+ fullScreen();
+ background(255);
+ f = createFont("휴먼명조", 16);
+}
+void draw(){
+ //background(255);
+ smooth();
+ textFont(f,36);
+ fill(random(0,255),random(0,255),random(0,255));
+ //textAlign(CENTER);
+ translate(width/2,height/2);
+ rotate(angle);
+ text ("000000",x = x- 1, 0);
+ 
+ 
+ angle += 0.05;
+}
