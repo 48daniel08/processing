@@ -1,0 +1,20 @@
+Car myCar1;
+Car myCar2;
+Car myCar3;
+
+void setup() {
+  myCar1=new Car(color(0,255,0),width/2,height/2,3);
+  myCar2=new Car(color(255,0,0),width/4,height/2,3);
+  myCar3=new Car(color(0,0,255),width/3,height/2,3);
+  size(600,600);
+}
+
+void draw() {
+  background(0);
+  myCar1.drive();
+  myCar1.display(33,22);
+  myCar2.drive();
+  myCar2.display(22,33);
+  myCar3.drive();
+  myCar3.display(32,33);
+}
